@@ -32,11 +32,14 @@
 ---
 
 # Work on branche 
-
+---
+- AJOUTER
 ---
 
 # Merge on branche main
 
+---
+- AJOUTER 
 ---
 
 # Delete a branch
