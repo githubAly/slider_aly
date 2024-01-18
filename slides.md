@@ -12,3 +12,10 @@
 - git commit -m "Initial commit"
 - git push -u origin master
 ---
+
+# How to review change
+---
+- git status
+- git diff
+- git diff filename
+--- 
