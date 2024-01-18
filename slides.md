@@ -80,3 +80,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ### Code
 ---
 `git status`
+
+---
+### Extras
+---
+# **sosoruse kore wa**
+![Screenshot of Senku from Dr Stone.](https://risibank.fr/cache/medias/0/18/1857/185721/full.png)
+
