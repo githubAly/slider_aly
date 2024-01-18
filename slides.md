@@ -4,14 +4,14 @@
 
 ---
 # How to initialise a new repository
----
+--- { "color" : "#333" }
 - git init
 - git add .
 - git commit -m "Initial commit"
 - git push -u origin master
 ---
 
-# How to review change
+# How to review change 
 ---
 - git status
 - git diff
