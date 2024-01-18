@@ -19,3 +19,9 @@
 - git diff
 - git diff filename
 --- 
+
+# How to commit change
+---
+- git add .
+- git commit -m 
+- git log 
