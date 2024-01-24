@@ -1,6 +1,6 @@
 # slider_aly
-
-Made with ❤️ and [Spectacle](https://github.com/FormidableLabs/spectacle/).
+- https://slider-aly-lmeh.vercel.app/?slideIndex=0&stepIndex=0
+- Je suis arrivée au 102.03
 
 ## lancer le code
 
