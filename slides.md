@@ -98,4 +98,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 --- { "layout" : "center" }
 ### test errors
 - test 1
-- test 2!
+- test 2
