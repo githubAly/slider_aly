@@ -90,4 +90,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 --- { "layout" : "center" }
 ### How to apply commit
 --- { "layout" : "center" }
-
+### How to use git fragment
