@@ -1,6 +1,20 @@
 # slider_aly
 - https://slider-aly-lmeh.vercel.app/?slideIndex=0&stepIndex=0
-- Je suis arrivée au 102.03
+
+--- 101
+- [ ] 01
+- [ ] 02
+- [ ] 03
+--- 102
+- []01
+- [] 02
+- [] 04
+- [] 03
+---103
+- [] 01
+- [] 02
+- [] 03
+- [] 04
 
 ## lancer le code
 
@@ -9,4 +23,4 @@
 - aller sur internet, écrire "localhost:3000"
 
 ## note
-- A finir pour plus tard, je n'ai pas pu tout mettre :v
+- UI à pour plus tard, je n'ai pas pu tout mettre :v
