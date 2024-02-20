@@ -1,20 +1,23 @@
 # slider_aly
 - https://slider-aly-lmeh.vercel.app/?slideIndex=0&stepIndex=0
 
---- 101
-- [ ] 01
-- [ ] 02
-- [ ] 03
---- 102
-- []01
-- [] 02
-- [] 04
-- [] 03
----103
-- [] 01
-- [] 02
-- [] 03
-- [] 04
+
+## 101
+- [x] 01.md
+- [x] 02.md
+- [x] 03.md
+
+## 102
+- [x] 01.md
+- [x] 02.md
+- [x] 03.md
+- [x] 04.md
+
+## 103
+- [x] 01.md
+- [ ] 02.md
+- [ ] 03.md
+- [ ] 04.md
 
 ## lancer le code
 
