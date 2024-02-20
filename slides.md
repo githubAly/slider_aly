@@ -91,3 +91,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ### How to apply commit
 --- { "layout" : "center" }
 ### How to use git fragment
+--- { "layout" : "center" }
+### this one will be reverted
+--- { "layout" : "center" }
+### How to fix the last commit message
+--- { "layout" : "center" }
+### test errors
+- test 1
+- test 2
