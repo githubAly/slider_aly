@@ -14,7 +14,7 @@
 - [ ] 04 BONUS
 
 ## 103
-- [ ] 01
+- [x] 01
 - [ ] 02
 - [ ] 03
 - [ ] 04
@@ -26,4 +26,4 @@
 - aller sur internet, écrire "localhost:3000"
 
 ## note
-- UI à pour plus tard, je n'ai pas pu tout mettre :v
+- UI à pour plus tard, je n'ai pas pu tout mettre
